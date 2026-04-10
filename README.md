@@ -2,7 +2,7 @@
 
 An interactive and playful form validation demo where the submit button cleverly dodges away if the username or password doesn't meet the validation criteria! 🔒 This encourages users to enter valid information in a fun way. 😄
 
-[Live Demo](https://iam269.github.io/Smart-Submit-Button/)
+[Live Demo](https://itsiamdev.github.io/Smart-Submit-Button/)
 
 ## Features ✨
 - **Real-time Validation**: Instant feedback on username and password fields with color-coded borders (red for invalid, green for valid).
